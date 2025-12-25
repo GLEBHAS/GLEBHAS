@@ -1,1 +1,51 @@
+# 👋 Привет, я [Глеб] | C# Backend/Desktop Developer/DevOps
 
+**C# Developer с глубоким пониманием языка, паттернов проектирования и принципов ООП. Ценю чистый код и стремлюсь к созданию надёжных решений в профессиональной команде.**
+
+---
+
+## 🛠 **Технологический стек**
+
+### **Основная специализация:**
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+</p>
+
+### **Дополнительные навыки:**
+*   **Медиа-продукция:** Опыт работы с Adobe Creative Suite (Premiere Pro, After Effects, Photoshop) для создания контента
+*   **Системное мышление:** Комбинация технического бэкграунда и креативного подхода к решению задач
+
+---
+
+## 📈 **Статистика GitHub**
+
+<p align="center">
+  <a href="https://github.com/ВАШ_НИК">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Статистика" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dark&hide_border=true" alt="Языки" />
+  </a>
+</p>
+
+---
+
+## 📫 **Контакты**
+
+<p align="left">
+  <a href="https://github.com/GLEBHAS" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/@GLEBHAS" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:glebhass@yandex.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
