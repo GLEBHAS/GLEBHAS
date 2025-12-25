@@ -23,14 +23,22 @@
 
 ---
 
-## 📈 **Статистика GitHub**
+## 📈 **Моя активность на GitHub**
 
 <p align="center">
   <a href="https://github.com/GLEBHAS">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLEBHAS&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Статистика" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLEBHAS&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Языки" />
+    <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GLEBHAS&theme=github-dark&hide_border=true&area=true&line=58A6FF&point=1F6FEB&color=58A6FF&area_color=1F6FEB" alt="Граф активности" />
+  </a>
+  <br/>
+  <a href="https://github.com/GLEBHAS">
+    <img src="https://komarev.com/ghpvc/?username=GLEBHAS&color=blueviolet&style=flat-square&label=Просмотры+профиля" alt="Просмотры профиля" />
+  </a>
+  •
+  <a href="https://github.com/GLEBHAS?tab=repositories">
+    <img src="https://img.shields.io/badge/Проекты-В_разработке-1F6FEB?style=flat-square" alt="Проекты" />
   </a>
 </p>
+
 
 ---
 
