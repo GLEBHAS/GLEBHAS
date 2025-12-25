@@ -10,47 +10,45 @@
 ## 🛠 **Технологии и инструменты**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" title="C#" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" title="C#" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" title=".NET" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" title=".NET" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wpf" height="40" alt="WPF" title="WPF" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" alt=".NET" title=".NET Framework" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" title="Git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" title="GitHub" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" title="Linux" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash" />
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash" title="Bash" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="Ubuntu" title="Ubuntu" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" title="MySQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="Nginx" title="Nginx" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Azure" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="45" alt="Ubuntu" title="Ubuntu" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="Visual Studio" title="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" title="Docker" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" title="VS Code" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="40" alt="Premiere Pro" title="Premiere Pro" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL" title="PostgreSQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="After Effects" title="After Effects" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="Nginx" title="Nginx" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" title="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure" title="Azure" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator" title="Illustrator" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="45" alt="Visual Studio" title="Visual Studio" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/audition/audition-plain.svg" height="40" alt="Audition" title="Audition" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" title="VS Code" />
+  <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="45" alt="Premiere Pro" title="Adobe Premiere Pro" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="45" alt="After Effects" title="Adobe After Effects" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="45" alt="Photoshop" title="Adobe Photoshop" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="45" alt="Illustrator" title="Adobe Illustrator" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/audition/audition-plain.svg" height="45" alt="Audition" title="Adobe Audition" />
 </div>
 
 ### **Основная специализация:**
