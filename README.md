@@ -26,9 +26,9 @@
 ## 📈 **Статистика GitHub**
 
 <p align="center">
-  <a href="https://github.com/ВАШ_НИК">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Статистика" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dark&hide_border=true" alt="Языки" />
+  <a href="https://github.com/GLEBHAS">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GLEBHAS&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Статистика" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GLEBHAS&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Языки" />
   </a>
 </p>
 
@@ -40,12 +40,11 @@
   <a href="https://github.com/GLEBHAS" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://t.me/@GLEBHAS" target="_blank">
+  <a href="https://t.me/GLEBHAS" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:glebhass@yandex.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Yandex_mail-FC3F1D?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Mail" />
   </a>
 </p>
-
 ---
