@@ -75,13 +75,6 @@
     <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=GLEBHAS&theme=github-dark&hide_border=true&area=true&line=58A6FF&point=1F6FEB&color=58A6FF&area_color=1F6FEB" alt="Граф активности" />
   </a>
   <br/>
-  <a href="https://github.com/GLEBHAS">
-    <img src="https://komarev.com/ghpvc/?username=GLEBHAS&color=blueviolet&style=flat-square&label=Просмотры+профиля" alt="Просмотры профиля" />
-  </a>
-  •
-  <a href="https://github.com/GLEBHAS?tab=repositories">
-    <img src="https://img.shields.io/badge/Проекты-В_разработке-1F6FEB?style=flat-square" alt="Проекты" />
-  </a>
 </p>
 
 
